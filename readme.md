@@ -516,6 +516,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 - [MacGPT](https://www.macgpt.com/) - ChatGPT on your mac and menubar. ![Free][free] ![Dollar][mon]
 - [Netron](https://netron.app/) - Visualizer for neural network, deep learning, and machine learning models. ![Open Source][oss]
+- [VibeBox](https://vibebox.robcholz.com) - Ultrafast open-source micro-VM sandbox for running AI coding agents safely on macOS. ![Open Source][oss]
 
 ### Markdown Editors
 
